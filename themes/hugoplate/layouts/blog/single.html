@@ -15,7 +15,7 @@
           <ul class="mb-4">
             <li class="mr-4 inline-block">
               <a
-                href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
+                href="{{ `about/` | relLangURL }}">
                 <i class="fa-regular fa-circle-user mr-2"></i
                 >{{ .Params.author }}
               </a>
@@ -41,7 +41,9 @@
             </li>
           </ul>
           <div class="content mb-10">
-            {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}
+            {{ if strings.Contains .TableOfContents "li" }}
+              {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}
+            {{ end }}
             {{ .Content }}
           </div>
           <div class="row items-start justify-between">
@@ -62,16 +64,16 @@
                 </ul>
               </div>
             {{ end }}
-            <div class="lg:col-4 flex items-center">
+            <!-- <div class="lg:col-4 flex items-center">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (T "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
-            </div>
+            </div> -->
           </div>
           <!-- comments -->
-          {{ if site.Config.Services.Disqus.Shortname }}
+          <!-- {{ if site.Config.Services.Disqus.Shortname }}
             <div class="mt-20">
               {{ template "_internal/disqus.html" . }}
             </div>
-          {{ end }}
+          {{ end }} -->
         </article>
       </div>
 

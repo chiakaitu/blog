@@ -1,10 +1,15 @@
 ---
-title: "嗨！"
+title: "先開始，才有機會完美"
 date: 2024-10-02T23:39:59+08:00
+author: "Zachary Tu"
+image: "/images/post_1.jpg"
+categories: ["雜記"]
+tags: ["許願"]
 draft: false
 ---
 
-### 「*先開始，才有機會完美*」
+> *先開始，才有機會完美*
+
 已經太多人說過類似的話了，可能是《原子習慣》看來的，也好像是Zig Ziglar說的，又或許是IG隨手滑到的。
 
 總之，這就是我寫文章的開始。

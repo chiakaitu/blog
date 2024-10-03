@@ -1,13 +1,13 @@
-home: Home
-read_more: Read More
-send: Send
-related_posts: Related Posts
+home: 首頁
+read_more: 繼續閱讀...
+send: 傳送
+related_posts: 相關的文章
 categories: 文章分類
-tags: Tags
-toc: Table of Contents
-share: Share
+tags: 標籤
+toc: 標題列表
+share: 分享
 search_input_placeholder: 搜尋文章...
-search_no_results: No results for
+search_no_results: 搜尋不到
 search_initial_message: 輸入些什麼來搜尋..
 search_navigate: to navigate
 search_select: to select
