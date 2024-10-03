@@ -65,7 +65,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 keywords = ["blog", "Hugo"]
 description = "Zachary's blog"
 author = "zeon.studio"
-# image = "images/og-image.png"
+# image = "images/og-image.png" 縮圖看要放什麼
 
 
 # site verifications
@@ -97,7 +97,7 @@ sidebar = ["categories", "tags"]
 # google map
 [google_map]
 enable = false
-# map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+# map_api_key = ""
 # map_latitude = "51.5223477"
 # map_longitude = "-0.1622023"
 # map_marker = "images/marker.png"

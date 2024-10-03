@@ -2,7 +2,7 @@
 title: "先開始，才有機會完美"
 date: 2024-10-02T23:39:59+08:00
 author: "Zachary Tu"
-image: "/images/post_1.jpg"
+image: "/images/posts/post_1.jpg"
 categories: ["雜記"]
 tags: ["許願"]
 draft: false
