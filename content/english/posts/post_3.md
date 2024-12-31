@@ -1,10 +1,10 @@
 ---
-title: "什麼是微前端？"
-date: 2024-12-31T11:11:00Z
+title: "Mac 開箱設置！"
+date: 2024-10-31T03:10:23Z
 author: "Zachary Tu"
-image: "/images/posts/post_3.jpg"
-categories: ["筆記", "前端"]
-tags: ["微前端"]
+image: "/images/posts/post_2.jpg"
+categories: ["筆記"]
+tags: ["Mac"]
 draft: false
 ---
 
