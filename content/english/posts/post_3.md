@@ -1,14 +1,15 @@
 ---
 title: "什麼是微前端？"
+meta_title: "微前端"
+description: "Zachary的微前端筆記"
 date: 2024-12-31T11:11:00Z
 author: "Zachary Tu"
 image: "/images/posts/post_3.jpg"
 categories: ["筆記", "前端"]
 tags: ["微前端"]
 draft: false
-meta_title: "微前端"
-description: "Zachary的微前端筆記"
 ---
+
 > *學得越多，懂得越少*
 
 工作上主管問到微前端是什麼，於是就查了資料整理一份筆記。
