@@ -31,6 +31,7 @@ draft: false
 
 
 ![image](https://docs.aws.amazon.com/images/prescriptive-guidance/latest/micro-frontends-aws/images/mfe-architectures.png)
+
 圖例：微前端架構應用示意圖，展示不同子應用如何組合成一個整體應用。
 
 
