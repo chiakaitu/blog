@@ -18,7 +18,7 @@ draft: false
 
 頗有學得越多，懂得越少的感觸。
 
----
+<hr>
 
 ## 微前端是什麼？
 微前端是一種將單個應用程式拆分成多個獨立部署的軟體架構模式。  
@@ -45,7 +45,7 @@ draft: false
 - 開發規範增加：應用程式唯一資料的控制需要進行團隊的規範（router、語系、storage）。
 - 用戶體驗可能受影響： 如果微前端之間的整合（路由設置）不夠順暢，可能會影響用戶體驗。
 
----
+<hr>
 
 ## 微前端的使用場景
 - 大型應用：單一前端專案變得龐大，影響開發效率與編譯速度。
@@ -63,14 +63,14 @@ draft: false
 - 性能要求極高： 首屏加載和交互性能需優先考量時。
 - 快速迭代項目： 搭建微前端基礎設施可能會拖慢進度。
 
----
+<hr>
 
 ## 評估導入微前端的可行性
 1. 現狀分析：應用的規模、複雜度是否需要微前端來提升效率？
 2. 團隊能力：團隊是否具備架構設計與技術選型的經驗？
 3. 成本與效益：微前端是否能在合理的投入內帶來顯著效益？
 
----
+<hr>
 
 ## 相關名詞與工具
 ### 技術概念
@@ -88,7 +88,7 @@ draft: false
 - Micro App / Remote：子應用，獨立運行並由 Shell App 動態載入。
 - Monorepos：單一代碼庫管理方式，適用於微前端的代碼組織。
 
----
+<hr>
 
 ## 參考資料
 - [《Angular Architects》 使用現代 Angular 的微前端](https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/)
@@ -105,7 +105,7 @@ draft: false
 - [《Telerik》 微前端與 Monorepos](https://www.telerik.com/blogs/react-basics-microfrontend-vs-monorepos)
 - [《XENONSTACK》 微前端架構與最佳實踐](https://www.xenonstack.com/insights/micro-frontend-architecture)
 
----
+<hr>
 
 ## 參考專案
 - [ 乾坤 ](https://github.com/umijs/qiankun)
