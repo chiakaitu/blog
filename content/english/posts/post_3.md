@@ -4,7 +4,7 @@ date: 2024-12-31T11:11:00Z
 author: "Zachary Tu"
 image: "/images/posts/post_3.jpg"
 categories: ["筆記", "前端"]
-tags: ["筆記", "前端"]
+tags: ["微前端"]
 draft: false
 meta_title: "微前端"
 description: "Zachary的微前端筆記"
