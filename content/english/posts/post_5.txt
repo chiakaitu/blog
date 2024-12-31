@@ -1,6 +1,6 @@
 ---
 title: "How to build an Application with modern Technology"
-date: 2022-04-04T05:00:00Z
+date: 2022-04-04T14:48:00+08:00
 image: "/images/image-placeholder.png"
 categories: ["Software"]
 author: "John Doe"
