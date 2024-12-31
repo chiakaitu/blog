@@ -2,7 +2,7 @@
 title: "什麼是微前端？"
 date: 2024-12-31T11:11:00Z
 author: "Zachary Tu"
-image: "/images/image-placeholder.png"
+image: "/images/posts/post_3.jpg"
 categories: ["筆記", "前端"]
 tags: ["筆記", "前端"]
 draft: false
