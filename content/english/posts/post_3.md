@@ -10,7 +10,11 @@ draft: false
 
 > *學得越多，懂得越少*
 
-工作上主管問到微前端是什麼，於是就查了資料整理一份筆記。
+工作上主管問到微前端是什麼？
+
+我實在是一點概念都沒有，只覺得聽起來可能跟微服務有點關聯吧。
+
+網路上可以找到的資源很零散，於是就整理一份筆記。
 
 在應答上可以回答主管大部分的問題，但距離實作還有好一段路要走。
 
@@ -24,7 +28,6 @@ draft: false
 
 
 ![image](https://docs.aws.amazon.com/images/prescriptive-guidance/latest/micro-frontends-aws/images/mfe-architectures.png)
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 圖例：微前端架構應用示意圖，展示不同子應用如何組合成一個整體應用。
 
 
